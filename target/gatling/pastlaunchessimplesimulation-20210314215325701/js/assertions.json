@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.PastLaunchesSimpleSimulation",
+  "simulationId": "pastlaunchessimplesimulation",
+  "start": 1615758805701,
+  "description": "",
+  "scenarios": ["find-past-launches-scn"],
+  "assertions": [
+
+  ]
+}

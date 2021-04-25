@@ -1,0 +1,9 @@
+query launchesPast($launchFind: LaunchFind, $limit: Int) {
+    launchesPast(find: $launchFind, limit: $limit) {
+        mission_name
+        rocket {
+            rocket_name
+        }
+        launch_year
+    }
+}
